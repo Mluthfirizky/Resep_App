@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "1200px-Font_Awesome_5_solid_user-circle.svg.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
